@@ -1,7 +1,6 @@
 ### Sobre mi:
-Antiguo tecnico de Sistema, estudiante de Segundo de DAW
 <div>
-<a href="mailto:jlromero@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="html"></a>
+<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail">
 </div>
 
 
@@ -9,12 +8,12 @@ Antiguo tecnico de Sistema, estudiante de Segundo de DAW
 <div>
 
 
-<img src="https://img.shields.io/badge/Windows%20-0078D6.svg?style=for-the-badge&logo=Windows-10&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="html">
-<img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white" alt="html">
-<img src="https://img.shields.io/badge/Veeam-00B336.svg?style=for-the-badge&logo=Veeam&logoColor=white" alt="html">
+<img src="https://img.shields.io/badge/Windows%20-0078D6.svg?style=for-the-badge&logo=Windows-10&logoColor=white" alt="windows">
+<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="linux">
+<img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" alt="vmware">
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="mysql">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7.svg?style=for-the-badge&logo=Cisco&logoColor=white" alt="cisco">
+<img src="https://img.shields.io/badge/Veeam-00B336.svg?style=for-the-badge&logo=Veeam&logoColor=white" alt="veeam">
 </div>
 <div id="devCode">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html">
@@ -26,9 +25,9 @@ Antiguo tecnico de Sistema, estudiante de Segundo de DAW
 </div>
 
 <div>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="illustrator">
+  <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" alt="blender">
 </div>
 
 <div id="gameEngines">
