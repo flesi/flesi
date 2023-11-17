@@ -1,7 +1,7 @@
 ### Sobre mi:
 Antiguo tecnico de Sistema, estudiante de Segundo de DAW
 <div>
-<a href="jlromero@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="html"></a>
+<a href="mailto:jlromero@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="html"></a>
 </div>
 
 
