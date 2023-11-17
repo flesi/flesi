@@ -1,7 +1,9 @@
 ### Sobre mi:
-Estudiante de Segundo de DAW
+Antiguo tecnico de Sistema, estudiante de Segundo de DAW
+<div>
+<a href="jlromero@pm.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="html"></a>
+</div>
 
-<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="html">
 
 ### Tecnologías:
 <div>
@@ -23,6 +25,12 @@ Estudiante de Segundo de DAW
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="python">
 </div>
 
+<div>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/Blender-E87D0D.svg?style=for-the-badge&logo=Blender&logoColor=white" alt="">
+</div>
+
 <div id="gameEngines">
 <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white" alt="html">
 <img src="https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white" alt="html">
@@ -30,7 +38,7 @@ Estudiante de Segundo de DAW
 
 
 <!--
-<img src="" alt="html">
+<img src="" alt="">
 **flesi/flesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
